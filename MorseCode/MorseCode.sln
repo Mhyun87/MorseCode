@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MorseCode", "MorseCode\MorseCode.vcxproj", "{1D68CE99-1918-4E54-A1F6-6946F12EDA63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D68CE99-1918-4E54-A1F6-6946F12EDA63}.Debug|x64.ActiveCfg = Debug|x64
+		{1D68CE99-1918-4E54-A1F6-6946F12EDA63}.Debug|x64.Build.0 = Debug|x64
+		{1D68CE99-1918-4E54-A1F6-6946F12EDA63}.Debug|x86.ActiveCfg = Debug|Win32
+		{1D68CE99-1918-4E54-A1F6-6946F12EDA63}.Debug|x86.Build.0 = Debug|Win32
+		{1D68CE99-1918-4E54-A1F6-6946F12EDA63}.Release|x64.ActiveCfg = Release|x64
+		{1D68CE99-1918-4E54-A1F6-6946F12EDA63}.Release|x64.Build.0 = Release|x64
+		{1D68CE99-1918-4E54-A1F6-6946F12EDA63}.Release|x86.ActiveCfg = Release|Win32
+		{1D68CE99-1918-4E54-A1F6-6946F12EDA63}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68345E8D-00AF-4E18-B4E4-85DC1A062CE3}
+	EndGlobalSection
+EndGlobal
